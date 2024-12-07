@@ -84,23 +84,14 @@ This project is a showcase of a full-stack web application I developed to demons
 ### Frontend
 - Deployed on Vercel for quick and efficient static hosting.
 
-## Screenshots
-
-![Login Page](https://via.placeholder.com/800x400?text=Login+Page+Screenshot)
-![User List](https://via.placeholder.com/800x400?text=User+List+Screenshot)
-
 ## About This Project
 
 This project is part of my portfolio and showcases my ability to build a full-stack web application from scratch. It highlights my skills in:
-- Creating modern, responsive web interfaces.
-- Developing secure and scalable backend systems.
-- Deploying and managing web applications in production environments.
+- Creating interfaces.
+- Developing backend systems.
+- Deploying and managing web applications.
 
-Feel free to explore the codebase and reach out with any questions or feedback. I’m excited to continue building innovative solutions and refining my skills as a software developer.
+Feel free to do whatever you like to this
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
 
