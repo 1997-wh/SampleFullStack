@@ -77,6 +77,8 @@ This project is a showcase of a full-stack web application I developed to demons
 
 ## Deployment
 
+![Dashboard Screenshot](Executing_Script.png)
+
 ### Backend
 - Hosted on Render.
 - Configured with environment variables for database and application settings.
