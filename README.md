@@ -5,13 +5,13 @@ This project is a showcase of a full-stack web application I developed to demons
 ## Features
 
 ### Backend
-- **User Authentication**: Includes secure registration and login functionality with password hashing.
+- **User Authentication**: Includes registration and login with password hashing.
 - **CRUD Operations**: Implements Create, Read, Update, and Delete operations for user data.
 
 ### Frontend
-- **Modern UI**: A beautifully styled interface built with React and TailwindCSS.
-- **Responsive Design**: Mobile-first design for optimal user experience across devices.
-- **Dynamic Interaction**: Real-time feedback and smooth user interactions.
+- **Modern UI**: An interface built with React and TailwindCSS.
+- **Responsive Design**: Mobile-friendly design for optimal user experience across devices.
+- **Dynamic Interaction**: Feedback interactions.
 
 ## Skills Highlighted
 
@@ -78,11 +78,11 @@ This project is a showcase of a full-stack web application I developed to demons
 ## Deployment
 
 ### Backend
-- Hosted on Render for scalability and reliability.
-- Configured with environment variables for secure database and application settings.
+- Hosted on Render.
+- Configured with environment variables for database and application settings.
 
 ### Frontend
-- Deployed on Vercel for quick and efficient static hosting.
+- Deployed on Vercel.
 
 ## About This Project
 
