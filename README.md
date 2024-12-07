@@ -1,6 +1,6 @@
 # Full Stack Web Application Portfolio Project
 
-This project is a showcase of a full-stack web application I developed to demonstrate skills in web development, user authentication, and design. The app features a clean UI and a backend, making it an example of how to create user-friendly applications.
+This project is a showcase of a full-stack web application I developed to demonstrate skills in web development, user authentication, and design. The app features a UI and a backend, making it an example of how to create applications.
 
 ## Features
 
