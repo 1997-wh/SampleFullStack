@@ -9,9 +9,9 @@ This project is a showcase of a full-stack web application I developed to demons
 - **CRUD Operations**: Implements Create, Read, Update, and Delete operations for user data.
 
 ### Frontend
-- **Modern UI**: An interface built with React and TailwindCSS.
-- **Responsive Design**: Mobile-friendly design for optimal user experience across devices.
-- **Dynamic Interaction**: Feedback interactions.
+- An interface built with React and TailwindCSS.
+- Designed for optimal user experience across devices.
+- Feedback interactions.
 
 ## Skills Highlighted
 
